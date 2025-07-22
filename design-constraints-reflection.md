@@ -23,5 +23,3 @@ UX designers can:
 - Stay in regular communication with devs during sprints to iterate quickly and adjust designs early.
 
 ---
-
-By staying flexible and user-focused, we can create experiences that work well for both users and developers.
