@@ -37,30 +37,8 @@ By connecting metrics to **user impact** and **business outcomes**. For example:
 
 ---
 
-## ✅ Suggested UX Improvement
+## Suggested UX Improvement
 
-**Idea:** Add a 1-screen interactive onboarding overlay/tutorial  
-- Use tooltips or highlight features step-by-step  
-- Keep language simple and benefits-focused  
-- Add progress indicator (e.g., “Step 1 of 3”)
 
-**Expected Impact:**  
-Improves user understanding, increases motivation to complete onboarding, and clarifies how the app works right away.
+##  Discussion with PM/Dev
 
----
-
-## 🤝 Discussion with PM/Dev
-
-- **Tracking method:** PostHog captures screen transitions and exits during onboarding.
-- **Insight:** Users often skip before even trying the timer or first routine. Devs can tag specific steps to isolate where exactly the issue occurs (e.g., onboarding step 1 vs. 3).
-
----
-
-## 📌 Summary
-
-| Metric | Drop-off rate in onboarding |
-|--------|-----------------------------|
-| Problem | Users leave early, don’t complete setup |
-| Root Causes | Lack of clarity, too many steps, low initial motivation |
-| Suggested Fix | Add short interactive onboarding with benefits + tooltips |
-| Team Involvement | Coordinate with PM + Dev for tracking updates and implementation |
