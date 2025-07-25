@@ -1,7 +1,7 @@
-# Feedback Iteration Report – Focus Bear UX Testing
+# Feedback Iteration Report 
 
-Author: Nina Rae  
-Date: [Insert Date]  
+Author: Nina Rae Laminero
+Date: July 25, 2025
 User Testing Link: https://fathom.video/share/iyeiAUQ_o39W9Dm_4GVQ14uhq-42cZLn
 
 ## Summary
@@ -13,13 +13,13 @@ This report summarizes 8 user experience improvements based on the video feedbac
 | # | Issue Observed | Suggested UX Change | Potential Constraints | Priority |
 |---|----------------|----------------------|------------------------|----------|
 | 1 | Onboarding is too long | Shorten onboarding into 3–4 digestible steps or allow user to skip | May require UX flow changes or dev time | High |
-| 2 | App feels too strict, like it’s “parenting” me | Soften tone of app language to feel more supportive | Requires UX/content review | Medium |
-| 3 | “What can you achieve?” question too overwhelming | Reword prompt to something simpler like “What’s your goal today?” | UX copy update | High |
+| 2 | App feels too strict, like it’s “parenting” me, not like a tool | Have an alternative to reduce strictness level | Requires UX/content review | Medium |
+| 3 | “What can you achieve?” question too overwhelming and  requires users to type | Reword prompt to something simpler like “What’s your goals?” and it should give options for users to click | UX copy update | High |
 | 4 | “When do you finish work lately?” question too long | Shorten to “When do you usually finish work?” | Simple copy change | Medium |
-| 5 | "What time do you go to sleep?" question is too long | Change to “Bedtime?” or “What time do you sleep?” | Simple content update | Medium |
-| 6 | Task labels (e.g. “Research paper”) felt too small | Increase font size and spacing for clarity | Visual UI tweak | High |
-| 7 | Confusion on clicking vs checking off tasks | Add tooltip or visual guide showing how to complete tasks | UI design work | High |
-| 8 | Too much neon green in app design | Adjust green shade or balance it with more neutral tones | May affect branding palette | Low |
+| 5 | The UI can be improved| build better UI design to encourage users to use the app |requires UI/UX review | High |
+| 6 | some icons, typography were too small | Increase font size, icons and spacing for clarity | Visual UI tweak | High |
+| 7 | Confusion on clicking vs checking off tasks | Add tooltip or visual guide showing how to complete tasks or design the prompt to look uneditable | UI design work | High |
+| 8 | The 'x' button did not delete the options clicked, instead it lead users to the previous page | Add a previous button on the left side to redo user error | May require UX flow changes or dev time | High |
 
 ## Prioritization Rationale
 
