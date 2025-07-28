@@ -1,6 +1,4 @@
-# Wireframing Intro Reflection – Focus Bear
-
-Author: Nina Rae  
+# Wireframing Intro Reflection   
 
 ## What is a Wireframe?
 
