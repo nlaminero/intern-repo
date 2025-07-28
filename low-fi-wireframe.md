@@ -3,8 +3,8 @@
 Author: Nina Rae  
 Date: July 28, 2025
 Feature: Homepage Redesign  
-Figma Link: 
-
+Figma Link: [
+](https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-%E2%80%93-Low-Fi-Wireframe?node-id=0-1&t=3FPu8o2VIJPXX2SG-1)
 ---
 
 ## Summary
