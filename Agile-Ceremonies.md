@@ -36,4 +36,9 @@ Retrospectives are most important for me as a UX designer because they allow ref
 
 ## My Observations
 
-- 
+In the Aug-11 Monday UX meeting (Google Meet), I shared my progress on the homepage design and received updated guidance on the onboarding task. The team clarified that onboarding is part of the main project work and not something to rush, which changed how I planned my next steps. We also discussed homepage priorities, with Mia’s feedback focusing on reducing clutter and preferring option 2. I suggested using an accordion layout with collapsed sections to keep the design clean.
+
+
+**What stood out:** Clarifying priorities helped prevent wasted effort, and open feedback improved design quality. This felt like both a stand-up (sharing progress and blockers) and a retrospective (reflecting on what worked and what needed improvement).
+
+**Change for collaboration:** I will start leaving short written notes in Figma after meetings (e.g., “Onboarding design integrated into main project tasks; homepage simplified with accordion design”). This way, decisions are visible to everyone, even if they miss the live call, and it supports better async collaboration.
