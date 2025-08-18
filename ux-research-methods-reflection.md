@@ -54,3 +54,14 @@ These methods combine both observational and self-reported data, giving a balanc
 - Observe behavior as well as listening to feedback  
 - Include **diverse participants** to reduce skewed results
 
+
+## Reflection: Improving Focus Bear's Onboarding Experience
+
+To improve onboarding, the most useful UX research methods would be:
+
+- **Moderated usability testing** to observe confusion or hesitation during onboarding  
+- **User interviews** to explore pain points and expectations  
+- **Surveys** to gather feedback from a larger sample after onboarding  
+
+👉 *Personal Example:* When I explored Focus Bear’s onboarding flow, I noticed that setting up multiple habits at once felt overwhelming — I personally skipped through it quickly without really customizing. If I were running a **usability test**, I’d watch for this same behavior in new users to confirm whether the number of choices is too high. A **survey** afterwards could ask how confident they felt about their setup. Combining both methods would reveal whether the friction is from unclear instructions, too many steps, or lack of perceived value.
+
