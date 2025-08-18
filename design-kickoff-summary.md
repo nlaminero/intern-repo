@@ -1,46 +1,47 @@
 # Design Kickoff Summary – Homepage Redesign
 
-Date: July 28, 2025  
+Date: August 18, 2025  
 Facilitator: UX Lead  
-Attendees: UX Interns 
+Attendees: UX Lead (Mia), UX Interns (Nina Rae, [Name]), Product Owner ([Jeremy])  
 
 ---
 
 ## Summary
 
-Today I attended a UX team meeting led by our UX lead to discuss improvements for Focus Bear’s onboarding experience and homepage. The meeting functioned as a design kickoff session to align the team on major UX problems and future directions.
-
-During the session, our UX lead shared key user pain points and presented three possible design approaches. We were then invited to select a redesign area to focus on. I chose the **homepage redesign** based on my interest in helping users feel more grounded when they first enter the app.
+The session was held to align the UX and product teams on redesigning Focus Bear’s homepage. The UX lead presented user pain points and shared three possible redesign directions. Each intern selected an area of focus; I chose the **homepage redesign** to help create a calmer first impression for users.
 
 ---
 
 ## Key Problems Identified
 
-- **Homepage Confusion:**  
-  - Users want to see their **tasks and habits immediately**, not random elements like a large progress bar or cluttered content.  
-  - Current layout feels overwhelming and lacks focus on key actions.
+- **Homepage Confusion:** Users want to see **tasks and habits immediately**, but the current layout feels cluttered with secondary elements.  
+users also want an overview of the features and a button to direct them to view the full details of sections, for accessibility and quick view. 
 
-- **Onboarding Experience:**  
-  - Onboarding is too long and repetitive.  
-  - It lacks energy or visual excitement — the suggestion was to explore **gamification or animations** to keep users engaged.
-
-- **Unclear Features:**  
-  - Some features feel confusing or heavy for first-time users.  
-  - Layout and copy need to be reworked for clarity and flow.
+- **Feature Clarity:** Some features feel confusing or heavy for first-time users; copy and layout need reworking.  
 
 ---
 
-## Action Items for My Role
+## Decisions Made
 
-- Redesign the homepage to prioritize **habits and tasks** as the main entry points.  
-- Remove or downplay secondary visual elements like progress bars that add clutter.  
-- Begin sketching low-fidelity wireframes to organize layout and user focus.  
-- Ensure the homepage aligns with the improved onboarding tone (e.g., more fun, less overwhelming).  
-- Coordinate with other interns working on onboarding-related features to maintain consistency.
+- Homepage should show only **high-level details** with “View All” links for full lists.  
+- Distraction Blocker will be represented by a **passive icon**, not a toggle.  
+- Dashboard-style layout to show key progress metrics and guide users into focused action.  
+
+---
+
+## Action Items
+
+- **Nina (UX Intern):** Create low-fidelity homepage wireframes focusing on homepage overview. 
+- **Other UX Interns:** Explore onboarding flow improvements, focusing on shorter, more engaging steps and other features in Focus bear.   
+- **Product Owner:** Review revised homepage copy for clarity and tone.  
+- **Developers (to join in next sync):** Validate feasibility of dashboard layout and confirm responsive/mobile constraints.  
+
 
 ---
 
 ## Reflection
 
-This meeting gave me a clearer understanding of the real user frustrations and helped me define my design priorities. I now understand the importance of showing value up front (tasks + habits) and minimizing noise. Although no developers were present, this session set the foundation for what I’ll eventually hand off — and gave me confidence in where to begin with homepage planning.
+This meeting clarified the real frustrations users face and helped me set design priorities. I now understand the importance of highlighting tasks and habits on the homepage, keeping visuals light, and ensuring the flow is consistent with homepage overview improvements. 
+<img width="755" height="426" alt="Screenshot 2025-08-18 at 2 20 57 pm" src="https://github.com/user-attachments/assets/f61d106e-7b9f-4dbd-8102-0b376a0d646c" />
+
 
