@@ -38,3 +38,6 @@ By consistently validating design choices through usability testing, surveys, an
 **What are the risks of relying on assumptions?**  
 Assumptions can lead to features that users don’t need, interfaces that are confusing, or accessibility issues that exclude users. This can harm both the product’s usability and the business outcome.
 
+*Personal Example:* During my Focus Bear internship, I noticed in feedback sessions that several users mentioned the dashboard felt “too busy” when all habits and tasks were shown together. At first, I thought it looked fine since it displayed everything in one place. But after seeing the same comment repeated across different feedback channels, I realized this was a **pattern** and not just one opinion. That insight led me to redesign the dashboard with a **tabbed layout**, showing only the current routine with a “View All” option. This change reduced clutter while still giving power users access to all features, showing how interpreting repeated feedback patterns can lead to meaningful improvements.
+
+<img width="929" height="695" alt="Screenshot 2025-08-18 at 1 41 19 pm" src="https://github.com/user-attachments/assets/0f9257c2-235b-467e-abc4-c11c0c1af432" />
