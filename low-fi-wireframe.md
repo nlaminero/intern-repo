@@ -57,6 +57,9 @@ I am currently sketching a new wireframe based on this feedback and will update 
 <img width="402" height="539" alt="Screenshot 2025-08-18 at 2 02 55 pm" src="https://github.com/user-attachments/assets/92eceb46-0f5b-4183-9460-6ff05b26a40b" />
 
 ## After Iterating feedbacks 
+I used dahsboard layout style as suggested by Mia, I also designed ways to make the space feel more complete as stated by jeremy. The screenshot below is the redeisgned version of the original low fidelity wireframe, addressing all the suggested feedbacks from above. 
+
+
 <img width="790" height="623" alt="Screenshot 2025-08-18 at 2 04 11 pm" src="https://github.com/user-attachments/assets/5cf033cc-c31b-4a94-b642-215b3440669f" />
  
 
