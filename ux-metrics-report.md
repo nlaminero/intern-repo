@@ -37,8 +37,30 @@ By connecting metrics to **user impact** and **business outcomes**. For example:
 
 ---
 
-## Suggested UX Improvement
+##  Data Analysis (via PostHog)
 
+- **Current trend (last 7 days):** Total conversion rate = **3.59%**, with an average time to convert of ~13h 43m.
+- **Where users drop:** 
+  - From **Login → Complete Morning Routine**, 82.63% drop off (138 out of 167 users).
+  - From **Complete Morning Routine → Start Focus Session**, 79.31% drop off (23 out of 29 users).
+- **Possible causes:**
+  - Morning routine setup may feel too complex or time-consuming.
+  - Users don’t clearly understand the link between completing routines and starting a focus session.
+  - Lack of motivation/value communication early on may cause users to abandon before experiencing the app’s main benefit.
+
+
+##  Suggested UX Improvement
+
+- **Simplify morning routine setup**: Offer a default “starter routine” instead of requiring full customization.
+- **Early focus session prompt**: Encourage users to try a focus session *before* completing a full routine, so they immediately see the app’s value.
+- **Progress feedback**: Show a simple message like *“Nice work! You’re one step away from starting your first focus session.”* to guide users through.
 
 ##  Discussion with PM/Dev
+
+- **Tracking method**: PostHog currently tracks `login`, `complete-morning-routine`, and `start-focus-session-manual`. These events allow us to see where onboarding fails.
+- **Insights**: The data shows onboarding is heavily front-loaded, with too many users dropping at the “morning routine” stage.
+- **Next step**: Discuss running an A/B test with a shorter onboarding flow, where users can launch a focus session earlier to reduce initial friction.
+
+
+
 
