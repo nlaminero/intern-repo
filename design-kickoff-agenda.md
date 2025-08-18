@@ -1,42 +1,28 @@
-# Design Kickoff Agenda – Homepage Redesign
+# Design Kickoff Summary – Homepage Redesign
 
-Project: Focus Bear Homepage Redesign  
-Facilitator: Nina Rae  
+## Meeting Details
+- **Date/Time:** Monday 18 August
+- **Facilitator:** Nina Rae  
+- **Attendees:** UX Designer (Nina Rae),Jeremy,Mia,the rest of UX design interns
+
+## Discussion Points
+- Walkthrough of low fidelity wireframes
+- Reviewed homepage redesign goals (reduce clutter, improve homepage clarity)
+- Accessibility requirements and layout priorities discussed
+- Technical constraints raised: The deisgn needs to be an overview of the tabbed sections - Jeremy. 
+
+## Decisions Made
+- Homepage will only show **high-level details**, with “View All” options for full lists
+- Distraction Blocker will be shown as a **passive icon**
+- Dashboard layout will be used to provide quick progress overview
+
+## Action Items
+- **Nina (UX Designer):** Refine wireframes based on feedback and finalize Figma handoff  
+- **Developer:** Validate technical feasibility of dashboard layout and responsive design  
+- **Product Owner:** Review updated onboarding flow copy for clarity  
+- **Project Manager:** Confirm implementation timeline and track progress in GitHub  
 
 
-## Objective
 
-To align the design and development teams on the purpose, functionality, and constraints of the new homepage design before implementation begins.
-
-## Attendees
-
-- UX Designer: Nina Rae  
-- (To be filled: Developer, Product Owner, Project Manager)
-
-## Agenda
-
-1. **Introduction**
-   - Quick overview of the redesign goal
-   - Explain why the homepage is being updated (e.g., user feedback, clarity, onboarding improvement)
-
-2. **Feature Walkthrough**
-   - Present latest low/high-fidelity wireframes
-   - Walk through page structure, user flows, and key interactions
-
-3. **Design Goals & User Needs**
-   - Accessibility considerations
-   - Tone, layout priorities, and user journey
-
-4. **Technical Feasibility & Constraints**
-   - Ask about performance limitations
-   - Are there platform-specific constraints (e.g., for Windows/Mac/Web)?
-   - Asset format preferences or responsive layout concerns?
-
-5. **Collaboration & Tools**
-   - Figma handoff details
-   - Use of GitHub issues/labels
-   - Where to comment, how feedback is exchanged
-
-6. **Questions & Action Items**
-   - Open floor for dev questions or concerns
-   - Confirm next steps and timeline for developer handoff
+<img width="892" height="679" alt="Screenshot 2025-08-18 at 2 15 27 pm" src="https://github.com/user-attachments/assets/e784ffe7-8c2a-4ed6-a63f-b7eb050c9a4b" />
+<img width="809" height="597" alt="Screenshot 2025-08-18 at 2 15 46 pm" src="https://github.com/user-attachments/assets/9a999a0f-cd1f-4c2e-8b89-2156458aa53d" />
