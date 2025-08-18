@@ -51,3 +51,6 @@ When several users experience the same problem or confusion, it signals a flaw i
 **What are the risks of making changes based on limited or unverified feedback?**  
 You could introduce new problems or waste time solving something that isn’t widespread. Relying on one person’s opinion without cross-checking can damage consistency, user trust, and product direction.
 
+👉 *Personal Example:* In my Focus Bear internship, I repeatedly heard feedback that the dashboard felt “too busy” when all habits, tasks, and schedules were displayed together. This wasn’t just one comment  it came up across different sessions. Seeing this pattern made it clear the clutter was a real issue. I used that insight to propose a **Vertical scroll dashboard layout idea** that only shows the Top important cards and  routines, with a “View All” button for extra details. This reduced visual overload while still giving power users access to everything.
+
+<img width="846" height="623" alt="Screenshot 2025-08-18 at 1 47 06 pm" src="https://github.com/user-attachments/assets/34f1d167-caa4-4b00-a0fb-ff738e43f5d9" />
