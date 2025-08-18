@@ -38,6 +38,10 @@ By connecting metrics to **user impact** and **business outcomes**. For example:
 ---
 
 ##  Data Analysis (via PostHog)
+<img width="1243" height="781" alt="Screenshot 2025-08-18 at 2 23 06 pm" src="https://github.com/user-attachments/assets/e4b548ad-266f-42d8-a300-ede8d946fa0e" />
+
+
+
 
 - **Current trend (last 7 days):** Total conversion rate = **3.59%**, with an average time to convert of ~13h 43m.
 - **Where users drop:** 
