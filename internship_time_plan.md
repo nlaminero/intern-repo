@@ -31,7 +31,7 @@
 ## Notes
 - Actual hours and daily logs are recorded in the **logbook (Excel)**.  
 
-##Logbook 
+** Logbook **  
 https://deakin365-my.sharepoint.com/:x:/g/personal/s219394956_deakin_edu_au/EYRIYWfyGDBAqGEaUxXXPIMBAeqUVVJRVsI1ZYFtI0WY1A?e=zgjjcD
 
 - I modify my logbook eveytime i work on a task during the internship. I also made a tab to ensure i can achieve the planned hours based on my end date. 
