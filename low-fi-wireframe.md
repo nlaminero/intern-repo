@@ -63,6 +63,11 @@ I used dahsboard layout style as suggested by Mia, I also designed ways to make 
 <img width="790" height="623" alt="Screenshot 2025-08-18 at 2 04 11 pm" src="https://github.com/user-attachments/assets/5cf033cc-c31b-4a94-b642-215b3440669f" />
  
 
+Based on Mia’s feedback, I simplified the homepage to only show high-level details, such as a few current habits and a quick progress snapshot. Full lists and interactions (like adding tasks or toggling habits) were moved into deeper screens, applying **progressive disclosure** to reduce clutter.  
+
+From Jeremy’s notes, I shifted the layout into a **dashboard style**, using clear sections and visual hierarchy to highlight the most important actions. I also changed the Distraction Blocker into a passive icon instead of a toggle, which aligns with the goal of keeping the homepage friction-free.  
+
+The final iteration focuses on **guiding users into focused action** while keeping the UI calm and distraction-free.
 
 ---
 
