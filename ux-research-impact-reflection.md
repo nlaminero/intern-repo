@@ -26,7 +26,6 @@ Ignoring feedback can result in costly redesigns later and damage trust in the b
 User research and usability testing allow early detection of friction points before development costs rise. Validating ideas through prototypes, interviews, or A/B tests helps ensure product decisions align with actual user expectations and mental models.
 
 ---
-
 ## Reflection
 
 **If research contradicts a designer’s personal preference, what should happen?**  
@@ -38,6 +37,7 @@ By consistently validating design choices through usability testing, surveys, an
 **What are the risks of relying on assumptions?**  
 Assumptions can lead to features that users don’t need, interfaces that are confusing, or accessibility issues that exclude users. This can harm both the product’s usability and the business outcome.
 
-*Personal Example:* During my Focus Bear internship, I noticed in feedback sessions that several users mentioned the dashboard felt “too busy” when all habits and tasks were shown together. At first, I thought it looked fine since it displayed everything in one place. But after seeing the same comment repeated across different feedback channels, I realized this was a **pattern** and not just one opinion. That insight led me to redesign the dashboard with a **tabbed layout**, showing only the current routine with a “View All” option. This change reduced clutter while still giving power users access to all features, showing how interpreting repeated feedback patterns can lead to meaningful improvements.
+*Personal Example:* In my Focus Bear internship, I worked on redesigning the dashboard. Initially, my design showed all habits and tasks on the screen at once, which I thought was useful. But after reviewing user feedback, I saw a clear pattern: people felt the dashboard was “too busy.” Based on this, I iterated on the design to use **tabs and progressive disclosure**, so users only saw their current routine with an option to “View All.” This was a direct case where UX research overruled my personal preference and made the design more usable.  
+
 
 <img width="929" height="695" alt="Screenshot 2025-08-18 at 1 41 19 pm" src="https://github.com/user-attachments/assets/0f9257c2-235b-467e-abc4-c11c0c1af432" />
