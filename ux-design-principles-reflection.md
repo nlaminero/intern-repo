@@ -14,5 +14,5 @@ Focus Bear can maintain a clean UI by hiding complexity until it’s needed. Thi
 
 👉 *Personal Example:* In my redesign of the Focus Bear dashboard, I created a **tabbed layout** where only the current section (Habits, Tasks, Schedule, or Focus) is visible at a time. This prevented the interface from being overloaded with all features at once. I also added a simple snapshot of the morning routine to keep users focused on the immediate next step, with a “View All” button for those who want more detail.  
 
-![Dashboard Sketch](your-sketch.png)  
 *My sketch showing the tabbed dashboard with progressive disclosure.*
+<img width="426" height="495" alt="Screenshot 2025-08-18 at 1 30 27 pm" src="https://github.com/user-attachments/assets/c27a872c-42ba-4c38-af16-b91ed146082a" />
