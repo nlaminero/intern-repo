@@ -80,4 +80,10 @@ A usability test was conducted with a participant (Dhenzel) who had no prior exp
 
 ## Reflection
 
-The session revealed that minor interface details—like wording and visual indicators—have a major impact on user experience. Dhenzel became increasingly frustrated during onboarding due to lack of progress visibility and unclear transitions. This highlights the importance of clear communication, user-friendly flow, and better tone in onboarding UX design.
+Conducting this test was eye-opening because I realized how easily small design details (like unclear button affordance or missing progress indicators) can create frustration. One surprising moment was when Dhenzel thought the emoji was a button — something I hadn’t considered at all during my own use. Another unexpected issue was how the Brain Dump felt distracting instead of helpful; I assumed it would be seen as a supportive feature, but it actually broke his focus.
+
+This test showed me the importance of testing with fresh eyes. As a designer, it’s easy to assume flows are intuitive, but real users may interpret things very differently. Going forward, I will pay closer attention to **clarity, consistency, and tone** in onboarding flows. I’ll also make sure to test with first-time users earlier in the design process to catch confusion before features are finalized.
+
+## user thoughts
+![IMG_D17278E1-D05A-40A0-9F87-FE200D17514E](https://github.com/user-attachments/assets/b0dcedd9-9b04-47dd-95e0-f94eca453be0)
+![IMG_F55B1B18-8516-4649-A883-36454264C595](https://github.com/user-attachments/assets/044364b8-3e05-4d1e-8728-90b78ffbb5a4)
