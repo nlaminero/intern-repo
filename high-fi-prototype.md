@@ -21,13 +21,13 @@ They provide realistic interactions, branding, and styling, making them essentia
 
 ---
 
-##  Task  
-- Convert clickable prototype into a high-fidelity design by adding:  
-  - Colors, typography, and spacing aligned with **Focus Bear’s design principles**  
-  - Realistic button states, hover effects, and smooth transitions  
-  - Animations to enhance usability  
-- Submit prototype for critique (feedback requested in Figma comments)  
-- Iterate and refine until supervisor approval  
+## Iteration & Feedback Summary
+I first created a low-fidelity homepage wireframe, which focused on showing tasks and habits. After sharing it, I received feedback: Mia suggested simplifying the homepage into a high-level snapshot view and Jeremy noted that the layout felt incomplete and needed clearer hierarchy.
+<img width="601" height="797" alt="Screenshot 2025-09-05 at 8 59 00 pm" src="https://github.com/user-attachments/assets/9df340c6-473e-4d95-89fd-65320623f1ae" />
+
+Based on this, I redesigned the wireframe into a dashboard-style layout and then built the high-fidelity prototype. The updated design shows only key habits, tasks, and schedule items, while keeping the interface calm and balanced. I also added Top Task prioritisation scores as suggested, improved spacing, and reduced clutter, which makes the screen easier to scan and act on.
+<img width="733" height="628" alt="Screenshot 2025-09-05 at 8 59 17 pm" src="https://github.com/user-attachments/assets/e0ebecec-4415-4c83-a48e-481b87f834ac" />
+
 
 ---
 
