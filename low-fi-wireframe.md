@@ -69,9 +69,12 @@ Based on Mia’s feedback, I simplified the homepage to only show high-level det
 
 From Jeremy’s notes, I shifted the layout into a **dashboard style**, using clear sections and visual hierarchy to highlight the most important actions. I also changed the Distraction Blocker into a passive icon instead of a toggle, which aligns with the goal of keeping the homepage friction-free.  
 
-The final iteration focuses on **guiding users into focused action** while keeping the UI calm and distraction-free.
+The final iteration focuses on **guiding users into focused action** while keeping the UI calm and distraction-free. After feedback from Mia, I simplified the homepage so it only shows high-level details (snapshot view) and moved full interactions like adding tasks into deeper screens. From Jeremy’s comments, I restructured the layout into a dashboard style, added more emphasis on the schedule, and filled empty space to make the design feel complete. The final iteration balances clarity with minimal friction, guiding users into focused action. All in all, i have iterated more than 3 wireframes and showed options when persenting. 
 
-After feedback from Mia, I simplified the homepage so it only shows high-level details (snapshot view) and moved full interactions like adding tasks into deeper screens. From Jeremy’s comments, I restructured the layout into a dashboard style, added more emphasis on the schedule, and filled empty space to make the design feel complete. The final iteration balances clarity with minimal friction, guiding users into focused action
+<img width="276" height="588" alt="Screenshot 2025-09-05 at 6 38 01 pm" src="https://github.com/user-attachments/assets/1fe2109c-a1ef-42d4-92ca-57bd7835cc6c" />
+
+
+
 ---
 
 ## Next Steps
