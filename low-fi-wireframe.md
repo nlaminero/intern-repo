@@ -44,6 +44,7 @@ I am currently sketching a new wireframe based on this feedback and will update 
 ---
 
 ## Feedback from Supervisor (Mia)
+<img width="1358" height="680" alt="Screenshot 2025-09-05 at 6 33 15 pm" src="https://github.com/user-attachments/assets/6eb29e18-2c7b-4a8d-88af-9c27dfee7e04" />
 
 - The homepage should **only display high-level details**, not allow full interaction (e.g., adding tasks or checking habits).
 - Display a **few key habits or tasks**, not the full list — users should tap into the full view for more.
@@ -58,6 +59,7 @@ I am currently sketching a new wireframe based on this feedback and will update 
 
 ## After Iterating feedbacks 
 I used dahsboard layout style as suggested by Mia, I also designed ways to make the space feel more complete as stated by jeremy. The screenshot below is the redeisgned version of the original low fidelity wireframe, addressing all the suggested feedbacks from above. 
+<img width="682" height="529" alt="Screenshot 2025-09-05 at 6 34 49 pm" src="https://github.com/user-attachments/assets/b8bdd4d1-3d83-4807-b9a0-0fc19ecf714d" />
 
 
 <img width="790" height="623" alt="Screenshot 2025-08-18 at 2 04 11 pm" src="https://github.com/user-attachments/assets/5cf033cc-c31b-4a94-b642-215b3440669f" />
@@ -68,7 +70,7 @@ Based on Mia’s feedback, I simplified the homepage to only show high-level det
 From Jeremy’s notes, I shifted the layout into a **dashboard style**, using clear sections and visual hierarchy to highlight the most important actions. I also changed the Distraction Blocker into a passive icon instead of a toggle, which aligns with the goal of keeping the homepage friction-free.  
 
 The final iteration focuses on **guiding users into focused action** while keeping the UI calm and distraction-free.
-
+After feedback from Mia, I simplified the homepage so it only shows high-level details (snapshot view) and moved full interactions like adding tasks into deeper screens. From Jeremy’s comments, I restructured the layout into a dashboard style, added more emphasis on the schedule, and filled empty space to make the design feel complete. The final iteration balances clarity with minimal friction, guiding users into focused action.
 ---
 
 ## Next Steps
