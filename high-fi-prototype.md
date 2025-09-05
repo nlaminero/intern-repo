@@ -1,11 +1,11 @@
-# 🎨 High-Fidelity Prototype  
+# High-Fidelity Prototype  
 
-## 🎯 Goal  
+## Goal  
 Transform a low-fidelity prototype into a high-fidelity design with visual details, animations, and refined interactions.  
 
 ---
 
-## ❓ Why is this important?  
+## Why is this important?  
 High-fidelity prototypes help communicate the final look and feel of the product.  
 They provide realistic interactions, branding, and styling, making them essential for:  
 - Stakeholder approval  
@@ -13,7 +13,7 @@ They provide realistic interactions, branding, and styling, making them essentia
 
 ---
 
-## 🔍 Research & Learn  
+## Research & Learn  
 - Difference between low-fidelity and high-fidelity prototypes  
 - Impact of colors, typography, and spacing on usability and accessibility  
 - Best practices for animations and micro-interactions in Figma  
@@ -21,7 +21,7 @@ They provide realistic interactions, branding, and styling, making them essentia
 
 ---
 
-## 🛠️ Task  
+##  Task  
 - Convert clickable prototype into a high-fidelity design by adding:  
   - Colors, typography, and spacing aligned with **Focus Bear’s design principles**  
   - Realistic button states, hover effects, and smooth transitions  
@@ -31,7 +31,7 @@ They provide realistic interactions, branding, and styling, making them essentia
 
 ---
 
-## 📝 Reflection  
+## Reflection  
 Creating the high-fidelity prototype helped me understand the importance of visual consistency and interaction details in UX design.  
 - I learned how colors, spacing, and typography contribute to usability and branding.  
 - Small details like hover states and button transitions improved the user experience.  
@@ -41,5 +41,5 @@ Overall, this task showed me how high-fidelity prototypes not only communicate t
 
 ---
 
-## 📄 Submission  
+##  Submission  
 https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-–-Low-Fi-Wireframe?node-id=362-776&t=eqJ23g7IZwuvyoCY-0
