@@ -48,7 +48,6 @@ Based on this, I redesigned the wireframe into a dashboard-style layout and then
 High-fidelity prototypes help developers by showing exact spacing, styles, and interaction states, which reduces ambiguity during handoff. However, focusing too much on visuals too early can distract from usability testing, so it’s important that I iterated after feedback instead of polishing the wrong direction. Small details like hover states, task priority icons, and progress indicators make the UI more intuitive and guide users smoothly toward focused action.
 Creating the high-fidelity prototype helped me understand the importance of visual consistency and interaction details in UX design.  
 - I learned how colors, spacing, and typography contribute to usability and branding.  
-- Small details like hover states and button transitions improved the user experience.  
 - I recognized the risk of focusing too much on visuals before validating usability.  
 
 Overall, this task showed me how high-fidelity prototypes not only communicate the final look and feel to stakeholders but also guide developers in building the product accurately.  
