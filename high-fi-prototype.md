@@ -13,14 +13,6 @@ They provide realistic interactions, branding, and styling, making them essentia
 
 ---
 
-## Research & Learn  
-- Difference between low-fidelity and high-fidelity prototypes  
-- Impact of colors, typography, and spacing on usability and accessibility  
-- Best practices for animations and micro-interactions in Figma  
-- Ensuring high-fidelity designs align with brand guidelines  
-
----
-
 ## Iteration & Feedback Summary
 
 Mia’s feedback: Simplify the homepage into a snapshot view showing only key habits and tasks.
