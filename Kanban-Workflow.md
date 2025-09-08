@@ -29,3 +29,27 @@ I can improve my workflow by checking the board daily and making sure I’m only
 ---
 
 ## My Task Tracking Observation
+
+When I checked the Focus Bear Intern Kanban board (hosted in Notion), I saw that tasks are organized under **To-Do, In Progress, and Done**.  
+Each card is detailed with:  
+- **Priority labels** (e.g., Low, Medium)  
+- **Platform tags** (Web, Mobile, Desktop)  
+- **Assignees** (team member names)  
+
+Some example tasks I observed include:  
+- *UI UX Web Redesign Habit Edit Layout* (Medium, Web, Han)  
+- *UI UX Mobile ToDo Player* (Low, Mobile, Yashica)  
+- *UI UX Desktop Blocking Schedule* (Medium, Desktop, Lin)  
+
+For my own work, I updated the card *UI UX Hompage (Dashboard) Development* (Medium priority, Mobile, Nina).  
+ moved it from **To-Do → In Progress**, as I started working on this design task.  
+
+This shows how tasks move across the board as they progress and ensures visibility for the whole team.  
+
+
+
+
+---
+
+<img width="1158" height="724" alt="Screenshot 2025-09-08 at 1 17 48 pm" src="https://github.com/user-attachments/assets/ae03543e-4698-44b3-b4c5-2b960a79b4ef" />
+<img width="347" height="195" alt="Screenshot 2025-09-08 at 1 17 57 pm" src="https://github.com/user-attachments/assets/60f3b90b-cdb9-4373-a5bd-ea0817a15e62" />
