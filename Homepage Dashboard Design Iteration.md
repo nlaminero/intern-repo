@@ -23,7 +23,9 @@ Mia's Design:
 
 
 
-My Design: 
+
+My Design:
+
 <img width="608" height="546" alt="Screenshot 2025-09-08 at 1 59 12 pm" src="https://github.com/user-attachments/assets/52ea86e4-1cf6-4ba5-a460-940ab953e904" />
 ---
 
