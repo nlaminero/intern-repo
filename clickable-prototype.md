@@ -48,6 +48,9 @@ Mia provided feedback via email, highlighting the following improvements for the
 - Suggested using a **dashboard-style layout** (cards, summaries, links out to full features)  
 - Included visual references to guide the next version  
 
+
+
+
 ---
 
 ## Next Steps
@@ -56,3 +59,9 @@ Mia provided feedback via email, highlighting the following improvements for the
 - Finalize the “Add Habit” overlay experience
 - Improve navigation bar and calendar scroll
 - Test end-to-end flow before moving to high-fidelity prototype
+
+
+https://github.com/user-attachments/assets/3b47480e-482a-4af2-9201-54d77370a8b5
+
+
+
