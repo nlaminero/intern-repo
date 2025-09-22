@@ -23,6 +23,8 @@ Prototypes demonstrate actual user flow and behavior. Developers can see the int
 
 ## Prototype Status
 
+https://github.com/user-attachments/assets/3b47480e-482a-4af2-9201-54d77370a8b5
+
 ### ✅ Completed:
 - Navigation between **Schedule** and **Habits** tabs
 - Interactive "I'm finished" habit checklist flow
@@ -36,7 +38,9 @@ Prototypes demonstrate actual user flow and behavior. Developers can see the int
 5. Calendar design lacks date-based dynamic updates
 6. Bottom nav bar is not fully functional or linked
 
----
+###  reflection:
+
+Story from testing: When I clicked the “I’m finished” button in the Habits tab, it didn’t visually mark the habit as complete. This revealed the need for a clear feedback state. I’ve included this in my “Needs Improvement” section so it can be addressed in the next iteration.
 
 ## Feedback Summary
 
@@ -61,7 +65,6 @@ Mia provided feedback via email, highlighting the following improvements for the
 - Test end-to-end flow before moving to high-fidelity prototype
 
 
-https://github.com/user-attachments/assets/3b47480e-482a-4af2-9201-54d77370a8b5
 
 
 
