@@ -3,7 +3,7 @@
 **Author:** Nina Rae  
 **Date:** July 28, 2025  
 **Feature:** Homepage Redesign  
-**Figma Link:** [Focus Bear Low-Fi Wireframe](https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-%E2%80%93-Low-Fi-Wireframe?node-id=0-1&t=3FPu8o2VIJPXX2SG-1)
+**Figma Link:** [Focus Bear Low-Fi Wireframe](https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-%E2%80%93-Low-Fi-Wireframe?node-id=0-1&t=3FPu8o2VIJPXX2SG-1) This Figma file represents my final low-fidelity wireframe after supervisor feedback. Later high-fidelity iterations build from this foundation and will be submitted in the next milestone.
 
 ---
 
@@ -11,7 +11,7 @@
 
 This low-fidelity wireframe was created to explore the structure of the homepage layout for the Focus Bear app. It initially focused on displaying tasks, habits, and checklist features in one place.
 
-However, after reviewing it with my supervisor Mia, I’ve received valuable feedback about the purpose of the homepage. It should act more like a **snapshot** of the user’s day — not a full functional page — and should **link out to** core features like habits and schedule.
+However, after reviewing it with my supervisor Mia, I’ve reczeived valuable feedback about the purpose of the homepage. It should act more like a **snapshot** of the user’s day — not a full functional page — and should **link out to** core features like habits and schedule.
 
 I am currently sketching a new wireframe based on this feedback and will update this file once it’s ready for review.
 
@@ -57,7 +57,7 @@ I am currently sketching a new wireframe based on this feedback and will update 
 
 <img width="402" height="539" alt="Screenshot 2025-08-18 at 2 02 55 pm" src="https://github.com/user-attachments/assets/92eceb46-0f5b-4183-9460-6ff05b26a40b" />
 
-## After Iterating feedbacks 
+## Final low-fidelity version (post-feedback).
 I used dahsboard layout style as suggested by Mia, I also designed ways to make the space feel more complete as stated by jeremy. The screenshot below is the redeisgned version of the original low fidelity wireframe, addressing all the suggested feedbacks from above. 
 <img width="682" height="529" alt="Screenshot 2025-09-05 at 6 34 49 pm" src="https://github.com/user-attachments/assets/b8bdd4d1-3d83-4807-b9a0-0fc19ecf714d" />
 
