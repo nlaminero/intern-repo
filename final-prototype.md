@@ -60,21 +60,4 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 
 ---
 
-## ✅ Alignment with Supervisor Rubric  
-
-- **Time Management** – Delivered updates within agreed timelines, reorganized tasks when priorities shifted.  
-- **Communication** – Presented prototype updates professionally and explained feedback to peers clearly.  
-- **Networking** 
-– Engaged with supervisors/colleagues to validate usability issues.  
-- **Learning from Feedback** – Applied supervisor/peer feedback to refine prototypes.  
-- **IT Skills & Problem Solving** – Applied Figma tools to address issues and improve interaction design.  
-- **Teamwork** – Collaborated with interns and responded to integration needs.  
-- **Critical Thinking** – Evaluated which feedback to prioritize, avoiding over-iteration.  
-
----
-
-## 📂 Files  
-
-- `final-prototype.md` → Link to final revised prototype in Figma  
-- `usability-test-findings.md` → Notes + screenshots of feedback & iteration log  
 
