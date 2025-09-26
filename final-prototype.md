@@ -46,11 +46,9 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
   - *Method: Figma comments 
   - *Screenshots of feedback:*  
 
-
-
+<img width="611" height="736" alt="jeremy's feedback " src="https://github.com/user-attachments/assets/d4eb86d8-6996-4a4f-8c77-201e766f56c0" />
 
  
-
 - **Findings & Issues Identified**  
   - *(List of usability issues or improvement suggestions)*  
 
@@ -66,7 +64,7 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 
 - **Time Management** – Delivered updates within agreed timelines, reorganized tasks when priorities shifted.  
 - **Communication** – Presented prototype updates professionally and explained feedback to peers clearly.  
-- **Networking** <img width="611" height="736" alt="jeremy's feedback " src="https://github.com/user-attachments/assets/d4eb86d8-6996-4a4f-8c77-201e766f56c0" />
+- **Networking** 
 – Engaged with supervisors/colleagues to validate usability issues.  
 - **Learning from Feedback** – Applied supervisor/peer feedback to refine prototypes.  
 - **IT Skills & Problem Solving** – Applied Figma tools to address issues and improve interaction design.  
