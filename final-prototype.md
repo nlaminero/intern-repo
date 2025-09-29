@@ -115,7 +115,7 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 
 
 - **Updated Prototype Link**  
-  [👉 Final Revised Prototype (Figma)][(your-figma-link-here)](https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-–-Low-Fi-Wireframe?node-id=0-1&p=f&t=1WEbm8UAlAiP97jS-0)  
+  [👉 Final Revised Prototype (Figma)][(Nina Rae's figma-link)](https://www.figma.com/design/oCKwqlP1hp1564BtaHx3OS/Focus-Bear-Homepage-–-Low-Fi-Wireframe?node-id=0-1&p=f&t=1WEbm8UAlAiP97jS-0)  
 
 ---
 
