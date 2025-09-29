@@ -12,29 +12,29 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 ## 🔍 Research & Learn  
 
 - **Best practices for testing high-fidelity prototypes**  
-  *(Your notes here)*  
+  Use clickable flows in Figma and observe natural task completion to catch confusion early.  
 
 - **How to analyze feedback from stakeholders vs. end-users**  
-  *(Your notes here)*  
+  Stakeholders focus on product goals/feasibility, while end-users focus on clarity and ease of use.  
 
 - **Techniques to prioritize feedback and avoid overdesigning**  
-  *(Your notes here)*  
+  Apply an impact vs. effort approach: fix high-impact issues first and defer low-impact ones.  
 
 - **How usability testing findings should influence iterations**  
-  *(Your notes here)*  
+  Translate findings into clear changes; wait for valid data before updating features like Quick Breaks.  
 
 ---
 
 ## 📝 Reflection  
 
 - **Balancing design vision vs. user feedback**  
-  *(Reflection here — link to rubric: communication, teamwork, feedback)*  
+  I adapted my lock icon idea into a status card, keeping clarity while aligning with Jeremy’s feedback.  
 
 - **Handling conflicting feedback**  
-  *(Reflection here — critical thinking, problem solving)*  
+  I paused Quick Break updates since current data was desktop-only, ensuring changes are evidence-based.  
 
 - **Risks of iterating too much without direction**  
-  *(Reflection here — time management, adaptability)*  
+  Too many changes can waste time; I managed scope by pacing updates and aligning with team timelines.  
 
 ---
 
