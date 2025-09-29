@@ -53,8 +53,10 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 *1. Blocking status unclear*
 -The lock icon isn’t enough to show whether blocking is active/inactive.
 -Needs clearer explanation or status text.
+
 *2. Need for a Help button*
 -Missing entry point for user guidance or support.
+
 *3. Navigation (Habits / Todos tabs)*
 -Habits tab highlighted twice → possible inconsistency or confusion.
 -Todos tab may not be needed (suggested removal from bottom nav).
@@ -73,11 +75,14 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
  *1. Blocking Status (Lock Icon → Card)*
 -Added a green “Blocking ON” badge with lock icon in the header.
 -This makes it clear whether blocking is active or inactive (resolves confusion).
+
 *2. Streak Indicator*
 -Placed the streak number (7) inside the fire icon.
 -Matches gamification expectations and keeps UI compact.
+
 *3. Help Button*
 -Added a help icon to the header for quick user guidance.
+
 *4. Navigation Tabs*
 -Kept Habits tab consistent.
 -Todos tab still visible but flagged for removal in later iterations based on Jeremy’s suggestion.
