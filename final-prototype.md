@@ -41,11 +41,10 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 ## 🛠️ Task  
 
 - **Usability Test Session(s)**  
-  - *Date/Time:*  
-  - *Tester(s):*  
+  - *Date/Time:*  22-29 September 2025
+  - *Tester(s):*  Jeremy
   - *Method: Figma comments 
   - *Screenshots of feedback:*  
-
 <img width="611" height="736" alt="jeremy's feedback " src="https://github.com/user-attachments/assets/d4eb86d8-6996-4a4f-8c77-201e766f56c0" />
 
  
@@ -104,6 +103,16 @@ Even well-designed prototypes need iterations to ensure they meet user needs. Te
 **7. Bottom Navigation**
 -Cleaned up to show Home, Focus, Settings only (Todos removed here).
 -Aligns with Jeremy’s request and reduces redundancy.
+
+<img width="669" height="719" alt="Screenshot 2025-09-29 at 1 21 25 pm" src="https://github.com/user-attachments/assets/ef15382a-a391-4500-8940-1abd8ab4775b" />
+
+**8. Quick Breaks**
+-I did not make design changes to Quick Breaks yet.
+-I presented my proposal in the morning meeting to Jeremy, aiming for his approval before iterating.
+-The PostHog data I shared was filtered to desktop, so Jeremy pointed out it isn’t currently relevant to mobile use.
+-The team is still troubleshooting filtering to mobile, which means I can’t yet validate Quick Break trends on mobile.
+-I do have desktop break data, but since this feature is mobile-first, I’m waiting until data is available before making significant design changes.
+
 
 - **Updated Prototype Link**  
   [👉 Final Revised Prototype (Figma)](your-figma-link-here)  
